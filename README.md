@@ -8,8 +8,6 @@ An end-to-end Healthcare Analytics solution built using:
 
 ## 🔗 Live Dashboard
 
-👉 (Add your Power BI Service link here)
-
 [View Dashboard](https://app.fabric.microsoft.com/links/DYZPgyZhna?ctid=608e2447-f9f0-4489-8567-8524bcb2ec44&pbi_source=linkShare&bookmarkGuid=5db7598d-b7c6-4301-a5a3-2392ef4726c5)
 
 ---
