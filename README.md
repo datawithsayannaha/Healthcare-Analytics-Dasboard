@@ -406,7 +406,7 @@ The solution helps healthcare organizations:
 
 # 👨‍💻 About Me
 
-## Sayan Naha
+**Sayan Naha**
 
-📧 Email: snsayan2012@gmail.com  
-🔗 LinkedIn: (Add LinkedIn Profile Link Here)
+📧 **Email:** snsayan2012@gmail.com  
+🔗 **LinkedIn:** [Sayan Naha](https://www.linkedin.com/in/sayan-naha/)
