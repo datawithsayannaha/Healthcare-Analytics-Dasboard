@@ -60,6 +60,7 @@ Semantic Model
       ↓
 Power BI Dashboard
 ```
+---
 
 # 🛠️ Tools & Technologies
 
