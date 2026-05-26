@@ -61,14 +61,6 @@ Semantic Model
 Power BI Dashboard
 ```
 
----
-
-# 🛤️ Project Architecture
-
-(Add Architecture Diagram Here)
-
----
-
 # 🛠️ Tools & Technologies
 
 | Tool | Purpose |
